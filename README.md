@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simanikzad
-- 👀 I’m interested in Stock Market and Trading
-- 🌱 I’m currently learning how to predict stock market using Time Series 
+- 👀 I’m interested in Stock Market, Trading and find a role in the field
+- 🌱 I’m currently learning how to improve my skills in predicting stock market using Deep Learning Algorithms 
 - 📫 How to reach me https://www.linkedin.com/in/simanikzad/
 
 <!---
